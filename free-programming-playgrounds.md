@@ -1,17 +1,20 @@
 ### Index
 
 * [Angular](#angular)
+* [ClojureScript](#clojurescript)
 * [Crystal](#crystal)
 * [CSS](#css)
 * [FlexBox](#flexbox)
 * [Go](#go)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
+* [Kotlin](#kotlin)
 * [.Net](#dotnet)
 * [Node.js](#nodejs)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
+* [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [SQL](#sql)
@@ -20,6 +23,11 @@
 ### Angular
 
 * [Plunker](http://plnkr.co)
+
+
+### ClojureScript
+
+* [Web REPL](http://clojurescript.net)
 
 
 ### Crystal
@@ -58,7 +66,11 @@
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)
 * [Sololearn](https://code.sololearn.com/#html)
-* [WebpackBin](https://www.webpackbin.com)
+
+
+### Kotlin
+
+* [Kotlin](https://try.kotlinlang.org)
 
 
 ### <a name="dotnet"></a>.NET
@@ -89,6 +101,11 @@
 * [Pyfiddle](https://pyfiddle.io)
 
 
+### R
+
+* [R-Fiddle](http://www.r-fiddle.org)
+
+
 ### Ruby
 
 * [Codepad](http://codepad.org)
@@ -108,5 +125,5 @@
 
 * [ScalaFiddle.io](https://scalafiddle.io)
 * [ScalaFiddle.net](http://scalafiddle.net)
-
+* [Scastie](https://scastie.scala-lang.org)
 
