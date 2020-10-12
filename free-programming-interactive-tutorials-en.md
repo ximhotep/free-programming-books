@@ -1,13 +1,14 @@
 ### Index
 
+* [Ada](#ada)
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
 * [Clojure](#clojure)
+* [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
 * [Erlang](#erlang)
-* [F#](#f-sharp)
 * [Git](#git)
 * [GLSL](#glsl)
 * [Go](#go)
@@ -32,6 +33,11 @@
 * [Vim](#vim)
 
 
+### Ada
+
+* [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html)
+
+
 ### Bash
 
 * [Help messages will explain everything](https://explainshell.com)
@@ -45,6 +51,7 @@
 
 ### C Sharp
 
+* [Codeasy](https://codeasy.net/course/csharp_elementary)
 * [Learn C#](http://www.learncs.org)
 
 
@@ -61,6 +68,15 @@
 * [Try Clojure](http://www.tryclj.com)
 
 
+### Cloud Computing 
+
+* [AWS API Gateway](https://run.qwiklabs.com/focuses/269?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3605949) - *registration required*
+* [AWS Identity and Access Management (IAM)](https://run.qwiklabs.com/focuses/7782?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3605942) - *registration required*
+* [AWS Lambda](https://run.qwiklabs.com/focuses/6431?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3605949) - *registration required*
+* [AWS Simple Storage Service (S3)](https://run.qwiklabs.com/focuses/7860?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3597563) - *registration required*
+* [Google Cloud Platform](https://cloud.google.com/training/free-labs/)
+
+
 ### CoffeeScript
 
 * [Coffeescript Style Guide](https://github.com/polarmobile/coffeescript-style-guide/blob/master/README.md)
@@ -72,15 +88,11 @@
 * [Try Erlang](http://www.tryerlang.org)
 
 
-### F Sharp
-
-* [Try F#](http://www.tryfsharp.org)
-
-
 ### Git
 
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+* [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * [Try Git](http://try.github.io)
 
 
@@ -105,14 +117,16 @@
 * [CSS Diner](http://flukeout.github.io)
 * [Flexbox Defense](http://flexboxdefense.com)
 * [Flexbox Froggy](http://flexboxfroggy.com)
+* [Grid Garden](https://cssgridgarden.com)
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
-* [Prototyping a professional website](https://www.codecademy.com/skills/make-a-website)
+* [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
 
 
 ### Java
 
 * [CodingBat code practice](http://codingbat.com/java)
+* [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
@@ -124,6 +138,7 @@
 * [ES6 Interactive Guide](http://stack.formidable.com/es6-interactive-guide/#/)
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [Javascript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
+* [Javascript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
 * [Javascripting](https://github.com/sethvincent/javascripting)
 * [Learn JavaScript](http://www.learn-js.org)
 * [Learn knockout.js](http://learn.knockoutjs.com)
@@ -201,7 +216,6 @@
 ### Ruby
 
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
-* [Codeschool Ruby paths](https://www.codeschool.com/paths/ruby)
 * [Ruby Koans](http://www.rubykoans.com)
 * [The Odin Project](http://www.theodinproject.com)
 * [Try Ruby](http://tryruby.org)
@@ -210,7 +224,7 @@
 ### Scala
 
 * [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
-* [Scala Exercises](https://www.scala-exercises.org) 
+* [Scala Exercises](https://www.scala-exercises.org)
 
 
 ### Selenium
@@ -220,6 +234,7 @@
 
 ### SQL
 
+* [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQLBolt](http://sqlbolt.com)
 
 
